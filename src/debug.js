@@ -1,3 +1,4 @@
+/** FEEDBACK: For the first problem, you could have also reset the length of the array to be 0.  */
 /* eslint-disable no-param-reassign */
 const clearArr = (arr) => {
   // Remove all elements from index 0 to the end of the array
